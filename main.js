@@ -277,14 +277,6 @@ const arr = [
 
 // console.log(totalPopulation);
 
-// const findPopulation = (array) => {
-//     let result = array.map(item => item.address.city = 1)
-//     let total = result.reduce((sum,current) => sum + current,0)
-//     console.log(total);
-// }
-
-// findPopulation (arr);
-
 
 
 //...........................................................................................
