@@ -266,16 +266,13 @@ const arr = [
 // Task 3: Şəhərlərdəki İstifadəçilərin sayı
 // Hər şəhərdə neçə istifadəçi olduğunu qaytaran funksiya yazın.
 
-// const totalPopulation = arr.reduce((sum, user) => {
-//     const city = user.address.city;
-//     // Check if the city name contains '1'
-//     if (city.includes(value)) {
-//         return sum + user.address.population;
-//     }
-//     return sum;
-// }, 0);
+// const findPopulation = (array) => {
+//     let result = array.map(item => item.address.city = 1)
+//     let total = result.reduce((sum,current) => sum + current,0)
+//     console.log(total);
+// }
 
-// console.log(totalPopulation);
+// findPopulation (arr);
 
 
 
